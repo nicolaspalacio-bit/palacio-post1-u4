@@ -22,10 +22,7 @@ no podía modificarse.
 
 ## Descripción
 
-El equipo de Compras reportó cuatro problemas de diseño sobre el mismo backend.
-Para cada uno, el enunciado describía el síntoma y el código que no podía tocarse,
-pero no el patrón a aplicar; identificarlo — y descartar con argumentos técnicos la
-alternativa más parecida — es el objetivo de este repositorio.
+
 
 | Necesidad | Síntoma de diseño                                            | Patrón aplicado           |
 |-----------|---------------------------------------------------------------|----------------------------|
