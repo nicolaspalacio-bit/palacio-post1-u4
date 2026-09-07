@@ -221,7 +221,7 @@ que algún componente externo vigile constantemente el estado de la solicitud
 para inyectar el comportamiento correcto en cada operación, una vigilancia
 innecesaria cuando la propia solicitud ya sabe en qué estado está.
 
-### Reflexión — otros tres patrones (no rubricada)
+### Reflexión
 
 ComprasUDES también planea tres mejoras que no forman parte de este laboratorio:
 
